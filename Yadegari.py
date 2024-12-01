@@ -1,8 +1,3 @@
-print("Bemanad Yadegar")
-print("I'M ' MeySam ' DaNiEL")
-print("KLR Shad , Sourosh")
-print("1403 or 2024")
-print("My friend is Hosein")
 import os
 os.system("pip install colored")
 import colored                                                  
@@ -19,5 +14,9 @@ rang='\033[34m'
 
 
 os.system("clear")
-
+print("Bemanad Yadegar")
+print("I'M ' MeySam ' DaNiEL")
+print("KLR Shad , Sourosh")
+print("1403 or 2024")
+print("My friend is Hosein")
 
